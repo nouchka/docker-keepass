@@ -1,2 +1,4 @@
 sut:
   build: .
+  ## no X env to test
+  entrypoint: ls -al /usr/lib/keepass2/KeePassHttp.plgx
