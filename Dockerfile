@@ -16,6 +16,6 @@ RUN export uid=1000 gid=1000 && \
     chown ${uid}:${gid} -R /home/user
 
 USER user
-ENV HOME /home/useer
+ENV HOME /home/user
 
 CMD /usr/bin/keepass2
