@@ -1,5 +1,5 @@
 keepass:
-  image: nouchka/keepass
+  image: nouchka/keepass:1.8.4.1
   ports:
     - 19455:19455
   environment:
