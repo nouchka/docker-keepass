@@ -6,10 +6,6 @@
 [![](https://images.microbadger.com/badges/version/nouchka/keepass.svg)](https://microbadger.com/images/nouchka/keepass "Get your own version badge on microbadger.com")
 [![Docker Automated buil](https://img.shields.io/docker/automated/nouchka/keepass.svg)](https://hub.docker.com/r/nouchka/keepass/)
 [![Build Status](https://travis-ci.org/nouchka/docker-keepass.svg?branch=master)](https://travis-ci.org/nouchka/docker-keepass)
-<!---
-[![Docker Stars](https://img.shields.io/docker/stars/nouchka/docker-keepass.svg)](https://hub.docker.com/r/nouchka/keepass/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/nouchka/docker-keepass.svg)]()
---->
 
 # Versions
 
